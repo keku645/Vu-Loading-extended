@@ -33,6 +33,7 @@ var Maps:any = {
 	"SP_Villa": "Kaffarov\'s Villa",
 	"COOP_006": "Aygan Village",
 	"COOP_002": "Hit and Run",
+	"COOP_010": "The Eleventh Hour",
 };
 
 export default Maps;
