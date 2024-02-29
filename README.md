@@ -1,5 +1,5 @@
 # VU-Loading
-This mod replaces every loading screen with new and redesigned 4K screens + adds new ones for SP and Coop maps.
+This mod replaces every loading screen with new and redesigned 4K screens.
 
 ## Screenshots
 ![](https://github.com/kaloczikvn/VU-Loading/blob/master/assets/01.png?raw=true)
